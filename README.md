@@ -49,11 +49,11 @@ Dashboard-based layout
 # ⚙️ Installation & Setup
 ## 🔧 Backend Setup (Spring Boot)
 ### 1.Clone the repository
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/Monali-Nalawade/task-manager-system.git
 ### 2.Navigate to backend folder
 cd backend
 ### 3.Configure application.properties
-spring.datasource.url=jdbc:mysql://localhost:3306/taskmanager
+spring.datasource.url=jdbc:mysql://localhost:3000/taskmanager
 spring.datasource.username=root
 spring.datasource.password=yourpassword
 spring.jpa.hibernate.ddl-auto=update
